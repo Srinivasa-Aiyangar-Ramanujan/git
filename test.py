@@ -1,3 +1,3 @@
 import random
 
-x = "dviehrieurhvie"
+x = "dviehrieurhvi"
